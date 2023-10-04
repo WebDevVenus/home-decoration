@@ -34,7 +34,7 @@ If you find this project helpful or useful in any way, consider contributing to 
 
 If you'd like to make a donation to help support the development of this project, you can send any amount of cryptocurrency to the following wallet address:
 
-**Bitcoin (BTC) Address:** 0x9aa24355C43474F55864f08967a3a294cc063156
+**Address:** 0x9aa24355C43474F55864f08967a3a294cc063156
 
 ### Why Donate?
 
