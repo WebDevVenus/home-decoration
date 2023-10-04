@@ -43,12 +43,3 @@ If you'd like to make a donation to help support the development of this project
 
 Thank you for your support!
 
-## License
-
-[Your License Information]
-
-## Contact
-
-[Your Contact Information]
-
-
