@@ -2,7 +2,7 @@
 
 Welcome to the Homely Decor & Improvement project! This is a simple website designed to showcase home decoration and improvement services. 
 
-![Screenshot of the Website](https://github.com/WebDevVenus/home-decoration/blob/main/images/webpage.png?raw=true)
+![Screenshot of the Website](https://webdevvenus.github.io/kingdom/)
 
 ## Features
 
