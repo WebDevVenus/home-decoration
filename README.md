@@ -2,8 +2,7 @@
 
 Welcome to the Homely Decor & Improvement project! This is a simple website designed to showcase home decoration and improvement services. 
 
-[![Kingdom's Valor]([![Kingdom's Valor](images/kingdoms-valor-preview.png)](https://webdevvenus.github.io/home-decoration/)
-
+[![Kingdom's Valor](https://github.com/WebDevVenus/home-decoration/blob/main/images/webpage.png)](https://webdevvenus.github.io/kingdom/)
 
 
 ## Features
