@@ -17,5 +17,5 @@ Welcome to the Homely Decor & Improvement project! This is a simple website desi
 ## Technologies Used
 
 - HTML5
-- CSS3
+- TailwindCSS
 - JavaScript
